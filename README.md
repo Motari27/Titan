@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://telegra.ph/file/3c090d6aa54002a5676c8.jpg" width="540" height="540" />
+<img src="https://telegra.ph/file/3c090d6aa54002a5676c8.jpg" width="540" height="640" />
 </p>         TITAN MD
 
 ### Setup
